@@ -16,8 +16,8 @@
 
 public class Oppgave2 {
 
-    public int getSum(int a,int b){
+    public static int getSum(int a, int b){
         //Good Luck
-        return (a + b) * (Math.abs(a - b) + 1) / 2;
+        return 0;
     }
 }

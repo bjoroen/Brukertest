@@ -7,11 +7,8 @@
 
 public class Oppgave1 {
     public static int grow(int[] x){
-        int results = 1;
-        for (int a: x){
-            results *= a;
-        }
 
-        return results;
+        //Good luck
+       return 0;
     }
 }
